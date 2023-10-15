@@ -1,1 +1,2 @@
 0x00. AirBnB clone - The console
+This repository encompasses the early phase of a student project aimed at replicating the AirBnB website. In this initial stage, a backend interface, or console, has been developed to handle program data. Through console commands, users can perform actions such as creating, updating, and deleting objects, as well as managing file storage. The system relies on JSON serialization and deserialization to ensure that data remains persistent across different sessions.
